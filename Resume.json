@@ -1,0 +1,40 @@
+[
+    {
+
+        "Personal Information": "PERSONAL INFORMATION",
+        "Last Name": "Last Name: Rey",
+        "First Name": "First Name: Ivan Joy",
+        "Middle Name": "Middle Name: Bierso",
+        "Sex": "Sex: Male",
+        "Address": "Address: Paris, France",
+        "Age": "Age: 18",
+        "Birthdate": "Birthdate: December 25. 2003",
+        "Birthplace": "Birthplace: North-Pole",
+        "Citizenship": "Citizenship: Filipino-American",
+
+        "Contact Info": "CONTACT INFORMATION",
+        "Contact Number": "Contact Number: 09091143123",
+        "Telephone Number": "Telphone Number: 8-7000",
+        "Email Address": "Email Address: tiredbtch@gmail.com",
+
+        "EducationalBg": "EDUCATIONAL BACKGROUND",
+        "School1": "Primary School",
+        "Primary School": "Ateneo De Naga Univeristy",
+        "Academic Year1": "2009-2015",
+        "Achievement1": "Valedictorian",
+            
+        "School2": "Secondary School",
+        "Secondary School": "Ateneo De Naga Univeristy",
+        "Academic Year2": "2015-2021",
+        "Achievement2": "Valedictorian",
+        
+        "School3": "Tertiary School",
+        "Tertiary School": "Polytechnic Univeristy of Thailand",
+        "Academic Year3": "2021-2026",
+        "Achievement3": "Magna Cum Laude"
+        
+    }
+    
+
+    
+]
